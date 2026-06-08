@@ -1,0 +1,796 @@
+{
+  "navLinks": [
+    {
+      "label": "Courses",
+      "href": "/courses",
+      "children": [
+        {
+          "label": "CHC33021: Certificate III in Individual Support",
+          "href": "/courses/chc33021"
+        },
+        {
+          "label": "CHC33021 Certificate III in Individual Support (Ageing)",
+          "href": "/courses/chc33021-ageing/"
+        },
+        {
+          "label": "CHC43015: Certificate IV in Ageing Support",
+          "href": "/courses/chc43015"
+        },
+        {
+          "label": "CHC43121: Certificate IV in Disability Support",
+          "href": "/courses/chc43121"
+        },
+        {
+          "label": "CHC33021 Certificate III in Individual Support (Disability)",
+          "href": "/courses/chc33021-disability/"
+        },
+        {
+          "label": "HLTAID009: Provide CPR",
+          "href": "/courses/hltaid009"
+        },
+        {
+          "label": "HLTAID011: Provide First Aid",
+          "href": "/courses/hltaid011"
+        }
+      ]
+    },
+    {
+      "label": "Student Resources",
+      "href": "/resources",
+      "children": [
+        {
+          "label": "Fee Structures",
+          "href": "/resources"
+        },
+        {
+          "label": "Students Handbook / Manual",
+          "href": "/resources"
+        },
+        {
+          "label": "Compliance & Appeal Policy",
+          "href": "/resources"
+        },
+        {
+          "label": "Refund & Cancellation Policy",
+          "href": "/resources"
+        },
+        {
+          "label": "Policy & Procedures",
+          "href": "/resources"
+        }
+      ]
+    },
+    {
+      "label": "Useful Links",
+      "children": [
+        {
+          "label": "USI Creation",
+          "href": "https://www.usi.gov.au/"
+        },
+        {
+          "label": "Create Police Report",
+          "href": "https://www.checked.com.au/"
+        },
+        {
+          "label": "Working with Children",
+          "href": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+        },
+        {
+          "label": "NDIS Worker Screening",
+          "href": "https://www.service.nsw.gov.au/services/ndiswc"
+        }
+      ]
+    },
+    {
+      "label": "About Us",
+      "href": "/about"
+    },
+    {
+      "label": "E-learning",
+      "href": "/e-learning"
+    }
+  ],
+  "courses": [
+    {
+      "slug": "chc33021",
+      "image": "/images/courses/33021.png",
+      "durationLeft": "Up to 12‑18 months (depending on pace, location)",
+      "durationRight": "Includes minimum 120 hours work placement",
+      "heading": "CHC33021: Certificate III in Individual Support (Ageing & Disability)",
+      "description": "This qualification reflects the role of individuals in community, home or residential care settings who provide person‑centred support under supervision, following an individualised plan.",
+      "category": "Community Services",
+      "tag": {
+        "primary": "Care",
+        "secondary": "Support"
+      },
+      "points": [
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Provide person‑centred support to people requiring care due to ageing or disability"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Assist with daily living activities in home, community or residential settings"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Work under supervision and delegation within a multidisciplinary team"
+        }
+      ],
+      "button": "View Course"
+    },
+    {
+      "slug": "chc43015",
+      "image": "/images/courses/43015.png",
+      "durationLeft": "Up to 12‑18 months (varies)",
+      "durationRight": "Includes minimum 120 hours work placement",
+      "heading": "CHC43015: Certificate IV in Ageing Support",
+      "description": "This qualification reflects the role of support workers in aged services (residential, home or community) who complete specialised tasks and functions, coordinate services and may have limited supervisory responsibilities.",
+      "category": "Community Services",
+      "tag": {
+        "primary": "Advanced",
+        "secondary": "Ageing"
+      },
+      "points": [
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Coordinate person‑centred services for older people"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Support people living with dementia and complex needs"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Provide leadership and/or supervisory support in aged care services"
+        }
+      ],
+      "button": "View Course"
+    },
+    {
+      "slug": "chc43121",
+      "image": "/images/courses/43121.png",
+      "durationLeft": "Up to 12‑18 months (varies)",
+      "durationRight": "Includes minimum 120 hours work placement",
+      "heading": "CHC43121: Certificate IV in Disability Support",
+      "description": "This qualification reflects the role of individuals in community settings or people’s homes who provide support in a manner that empowers people with disability to achieve greater levels of independence and community participation.",
+      "category": "Community Services",
+      "tag": {
+        "primary": "Disability",
+        "secondary": "Support"
+      },
+      "points": [
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Provide advanced person‑centred support for people with disability"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Work with individualised plans and community participation goals"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Support independence and inclusion for people with disability"
+        }
+      ],
+      "button": "View Course"
+    },
+    {
+      "slug": "hltaid009",
+      "image": "/images/courses/cpr.png",
+      "durationLeft": "Typically  half‑day (approx 4‑6 hours)",
+      "durationRight": "",
+      "heading": "HLTAID009: Provide Cardiopulmonary Resuscitation (CPR)",
+      "description": "This course provides essential skills and knowledge for performing cardiopulmonary resuscitation and responding to breathing and cardiac emergencies in workplace or community settings in line with ARC guidelines.",
+      "category": "Health & Safety",
+      "tag": {
+        "primary": "CPR",
+        "secondary": "Emergency"
+      },
+      "points": [
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Perform CPR in emergency situations"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Recognise and respond to cardiac arrest and choking"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Meet workplace compliance for CPR and first‑aid readiness"
+        }
+      ],
+      "button": "View Course"
+    },
+    {
+      "slug": "hltaid011",
+      "image": "/images/courses/first-aid.png",
+      "durationLeft": "Typically 1‑2 days (depending on provider)",
+      "durationRight": "",
+      "heading": "HLTAID011: Provide First Aid",
+      "description": "This course delivers comprehensive training in first aid response, life support and casualty management until professional medical help arrives. It covers CPR, injury management and responding to common emergencies in workplace and community settings.",
+      "category": "Health & Safety",
+      "tag": {
+        "primary": "First Aid",
+        "secondary": "Safety"
+      },
+      "points": [
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Provide basic life support and casualty management"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Manage injury, illness and emergency situations"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Workplace first‑aid compliance and readiness"
+        }
+      ],
+      "button": "View Course"
+    },
+    {
+      "slug": "chc33021-ageing",
+      "image": "/images/courses/33021.png",
+      "durationLeft": "Typically 6–12 months (provider dependent)",
+      "durationRight": "",
+      "heading": "CHC33021 Certificate III in Individual Support (Ageing)",
+      "description": "This qualification prepares learners to deliver safe, compassionate and person-centred care to older individuals across residential, community and home-based environments. It focuses on empowering independence, supporting daily living needs and promoting dignity and wellbeing within aged-care settings.",
+      "category": "Community Services",
+      "tag": {
+        "primary": "Aged Care",
+        "secondary": "Support"
+      },
+      "points": [
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Work effectively using a person-centred, dignity-driven approach"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Support older individuals with daily living, mobility and wellbeing"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Follow safe work practices, infection control and communication standards"
+        }
+      ],
+      "button": "View Course"
+    },
+    {
+      "slug": "chc33021-disability",
+      "image": "/images/courses/43015.png",
+      "durationLeft": "Typically 6–12 months (provider dependent)",
+      "durationRight": "",
+      "heading": "CHC33021 Certificate III in Individual Support (Disability)",
+      "description": "This qualification equips learners with the skills to provide inclusive, empowering and person-directed support to individuals with disability. It emphasises communication, independent living assistance, rights-based practice and safe, professional conduct across community and home settings.",
+      "category": "Community Services",
+      "tag": {
+        "primary": "Disability Support",
+        "secondary": "Community Care"
+      },
+      "points": [
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Deliver person-centred support aligned with individual goals and abilities"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Promote independence, self-advocacy and participation in daily life"
+        },
+        {
+          "icon": "CheckCircleIcon",
+          "text": "Apply safe work practices, communication strategies and duty-of-care principles"
+        }
+      ],
+      "button": "View Course"
+    }
+  ],
+  "resources": [
+    {
+      "image": "/images/courses/43121.png",
+      "heading": "Mental Health Guide",
+      "description": "A comprehensive guide to managing stress, maintaining mental well-being, and building resilience for students.",
+      "downloadBtnText": "Download",
+      "category": "Guide",
+      "pdfLink": "/pdf/demo.pdf"
+    },
+    {
+      "image": "/images/policy2.png",
+      "heading": "Nutrition Handbook",
+      "description": "Understand the essentials of balanced diets, sustainable food habits to support your academic journey.",
+      "downloadBtnText": "Download",
+      "category": "Handbook",
+      "pdfLink": "/pdf/demo.pdf"
+    },
+    {
+      "image": "/images/book.png",
+      "heading": "Study Skills Toolkit",
+      "description": "Practical strategies and study techniques to improve time management, note-taking, and exam preparation.",
+      "downloadBtnText": "Download",
+      "category": "Toolkit",
+      "pdfLink": "/pdf/demo.pdf"
+    },
+    {
+      "image": "/images/courses/cpr.png",
+      "heading": "Campus Safety Tips",
+      "description": "Learn how to stay safe on campus with emergency contacts, safety strategies, and awareness training.",
+      "downloadBtnText": "Download",
+      "category": "Toolkit",
+      "pdfLink": "/pdf/demo.pdf"
+    },
+    {
+      "image": "/images/policy.png",
+      "heading": "Financial Planning Guide",
+      "description": "Resources to help students manage budgets, savings, and financial responsibilities during academic life.",
+      "downloadBtnText": "Download",
+      "category": "Guide",
+      "pdfLink": "/pdf/demo.pdf"
+    }
+  ],
+  "facts": [
+    {
+      "id": 1,
+      "icon": "AcademicCapIcon",
+      "heading": "Nationally Recognised",
+      "text": "Gain qualifications accredited under ASQA."
+    },
+    {
+      "id": 2,
+      "icon": "ChartBarIcon",
+      "heading": "Job-Ready Training",
+      "text": "Complete mandatory work placements and practical training."
+    },
+    {
+      "id": 3,
+      "icon": "ShieldCheckIcon",
+      "heading": "Industry Partnerships",
+      "text": "Benefit from collaborations that support student employment."
+    },
+    {
+      "id": 4,
+      "icon": "GlobeAltIcon",
+      "heading": "Student Support",
+      "text": "Receive guidance from our dedicated team throughout."
+    }
+  ],
+  "testimonialData": [
+    {
+      "id": 1,
+      "name": "Michael Thompson",
+      "img": "/images/testimonial1.jpg",
+      "review": "Bayside Nursing College gave me the practical skills and confidence to start my career in aged care immediately after graduation.",
+      "stars": 5,
+      "date": "2 weeks ago"
+    },
+    {
+      "id": 2,
+      "name": "Sophie Lee",
+      "img": "/images/testimonial2.jpg",
+      "review": "The workplace placements were invaluable. I gained real-world experience that helped me secure my first support role.",
+      "stars": 5,
+      "date": "1 month ago"
+    },
+    {
+      "id": 3,
+      "name": "Daniel White",
+      "img": "/images/testimonial3.jpg",
+      "review": "Trainers were professional, approachable, and shared genuine insights from the field. Highly recommended for anyone entering care work.",
+      "stars": 5,
+      "date": "3 weeks ago"
+    },
+    {
+      "id": 4,
+      "name": "Emily Carter",
+      "img": "/images/testimonial4.jpg",
+      "review": "I felt fully supported throughout my course, from study advice to practical placements. I’m now confidently working in disability support.",
+      "stars": 5,
+      "date": "4 weeks ago"
+    }
+  ],
+  "missionData": [
+    {
+      "icon": "CircleStackIcon",
+      "heading": "Our Mission",
+      "text": "To provide high-quality vocational education that leads to safe practice, ethical conduct, and strong employment prospects in aged care, disability support, and community services.",
+      "points": [
+        "Skills aligned with industry standards",
+        "Clear and measurable learning outcomes",
+        "Hands-on supervised practice",
+        "Comprehensive learner support services",
+        "Collaboration with employers to meet needs",
+        "Foster respect, inclusion, and dignity"
+      ]
+    },
+    {
+      "icon": "EyeIcon",
+      "heading": "Our Vision",
+      "text": "To be a trusted training provider where care workers feel valued, deliver high standards of support, and continue learning as their roles grow.",
+      "points": [
+        "Deliver consistent, high-quality training",
+        "Maintain trust with industry partners",
+        "Provide an inclusive learning environment",
+        "Keep trainers current with best practices",
+        "Continuously improve programs and outcomes"
+      ]
+    },
+    {
+      "icon": "CubeIcon",
+      "heading": "Our Values",
+      "text": "We uphold respect, empathy, inclusion, and ethical practice in every aspect of education and care delivery.",
+      "points": [
+        "Treat all individuals with respect and dignity",
+        "Focus on practical, evidence-based learning",
+        "Ensure integrity and fairness in assessment",
+        "Collaborate with industry to stay relevant",
+        "Support student success and wellbeing"
+      ]
+    }
+  ],
+  "journeyCard": [
+    {
+      "icon": "EnvelopeIcon",
+      "heading": "$1383",
+      "text": "Current Average Weekly Earnings:"
+    },
+    {
+      "icon": "CheckBadgeIcon",
+      "heading": "CHC33021",
+      "text": "National qualification code"
+    },
+    {
+      "icon": "UsersIcon",
+      "heading": "In-Person, Blended, RPL",
+      "text": "Delivery"
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "Is Bayside Nursing College a registered training organisation?",
+      "answer": "Yes. Bayside Nursing College is fully ASQA-registered (RTO Code: 45929), which means all our courses meet national standards for vocational education. Being a registered training organisation ensures that your qualifications are recognised across Australia and comply with industry requirements. This gives you confidence that your study investment is credible and valuable for future employment.",
+      "icon": "BadgeCheckIcon"
+    },
+    {
+      "id": 2,
+      "question": "Are your courses recognised by employers?",
+      "answer": "Absolutely. Our courses are nationally recognised and highly regarded by employers in healthcare and community services. Graduates are equipped with practical skills, industry knowledge, and professional competencies that make them job-ready. Employers trust our programs because they align with national standards and incorporate real-world training.",
+      "icon": "BriefcaseIcon"
+    },
+    {
+      "id": 3,
+      "question": "Do your courses include work placement?",
+      "answer": "Yes. All of our programs include mandatory work placements to provide hands-on experience in real healthcare settings. These placements help students develop practical skills, build professional confidence, and network with potential employers. They bridge the gap between theory and practice, ensuring you are ready to contribute effectively from your first day on the job.",
+      "icon": "UserGroupIcon"
+    },
+    {
+      "id": 4,
+      "question": "Can I study part-time or online?",
+      "answer": "Yes. We understand that many students balance work, family, and study commitments. That’s why we offer flexible delivery options, including part-time, online, and blended learning modes. You can complete coursework at your own pace while still benefiting from in-person practical sessions to gain hands-on experience.",
+      "icon": "ComputerDesktopIcon"
+    },
+    {
+      "id": 5,
+      "question": "What kind of jobs can I get after completing Certificate III in Individual Support?",
+      "answer": "Graduates of Certificate III in Individual Support can pursue careers as personal care assistants, home care workers, or aged care support staff. Our programs provide the practical skills and knowledge employers look for, including patient care, communication, and safety procedures, giving you a strong foundation to advance in the healthcare sector.",
+      "icon": "ClipboardDocumentCheckIcon"
+    },
+    {
+      "id": 6,
+      "question": "How long does it take to complete a course?",
+      "answer": "Course duration varies depending on the program and study mode. Full-time students typically complete a Certificate III in Individual Support in around 6–12 months, while part-time or online learners may take longer. Our flexible scheduling ensures you can progress at a pace that suits your personal and professional commitments, without compromising learning quality.",
+      "icon": "ClockIcon"
+    },
+    {
+      "id": 7,
+      "question": "What support services are available for students?",
+      "answer": "Bayside Nursing College offers comprehensive support services, including academic assistance, career guidance, counselling, and study skills workshops. Our dedicated staff help students succeed academically and professionally, while also providing support for personal challenges to ensure a positive learning experience throughout your course.",
+      "icon": "SupportIcon"
+    },
+    {
+      "id": 8,
+      "question": "Are there any prerequisites to enrol in your courses?",
+      "answer": "Most of our courses require a minimum of a high school certificate or equivalent. Some programs may have additional requirements, such as language proficiency or police checks for work placements. We provide clear guidance during the enrolment process to ensure you meet all requirements and are prepared for the course.",
+      "icon": "ChecklistIcon"
+    },
+    {
+      "id": 10,
+      "question": "Do you offer career support after graduation?",
+      "answer": "Yes. We provide ongoing career support for graduates, including job placement assistance, resume and interview coaching, and networking opportunities with employers in healthcare and community services. Our goal is to ensure that students transition successfully from study to employment, with the confidence and skills to thrive in their chosen career.",
+      "icon": "UserCircleIcon"
+    }
+  ],
+  "coursesFaqs": [
+    {
+      "id": 1,
+      "question": "Can I study part-time or online?",
+      "answer": "Yes. We understand that many students balance work, family, and study commitments. That’s why we offer flexible delivery options, including part-time, online, and blended learning modes. You can complete coursework at your own pace while still benefiting from in-person practical sessions to gain hands-on experience. This flexibility ensures that you do not compromise your career or personal responsibilities while achieving your educational goals.",
+      "icon": "ComputerDesktopIcon"
+    },
+    {
+      "id": 2,
+      "question": "What kind of jobs can I get after completing Certificate III in Individual Support?",
+      "answer": "Graduates of Certificate III in Individual Support can pursue careers as personal care assistants, home care workers, or aged care support staff. Our programs provide the practical skills and knowledge employers look for, including patient care, communication, and safety procedures, giving you a strong foundation to advance in the healthcare sector. Graduates may also explore roles in disability services, community support, and home-based care, depending on their elective units and specialization.",
+      "icon": "ClipboardDocumentCheckIcon"
+    },
+    {
+      "id": 3,
+      "question": "How long does it take to complete a course?",
+      "answer": "Course duration varies depending on the program and study mode. Full-time students typically complete a Certificate III in Individual Support in around 6–12 months, while part-time or online learners may take longer. Our flexible scheduling ensures you can progress at a pace that suits your personal and professional commitments, without compromising learning quality. The duration also includes mandatory work placement hours, allowing you to gain hands-on experience in real healthcare settings.",
+      "icon": "ClockIcon"
+    },
+    {
+      "id": 4,
+      "question": "What support services are available for students?",
+      "answer": "Bayside Nursing College offers comprehensive support services, including academic assistance, career guidance, counselling, and study skills workshops. Our dedicated staff help students succeed academically and professionally, while also providing support for personal challenges to ensure a positive learning experience throughout your course. Additional resources include online libraries, access to mentoring, and peer support networks to encourage collaboration and knowledge sharing.",
+      "icon": "SupportIcon"
+    },
+    {
+      "id": 5,
+      "question": "Are your courses nationally recognised?",
+      "answer": "Yes. All our courses are fully accredited and nationally recognised under the Australian Qualifications Framework. This means your qualifications meet rigorous quality standards and are recognised by employers across Australia. Graduating from our courses ensures that your skills are credible, up-to-date with industry standards, and transferrable to a variety of healthcare and community service settings.",
+      "icon": "BadgeCheckIcon"
+    },
+    {
+      "id": 6,
+      "question": "Do your courses include work placement?",
+      "answer": "Yes. All our programs include mandatory work placements to provide hands-on experience in real healthcare settings. These placements help students develop practical skills, build professional confidence, and network with potential employers. The work placement component is carefully supervised and structured to ensure that you gain meaningful exposure to the work environment, complementing the theoretical knowledge acquired in the classroom and online modules.",
+      "icon": "UserGroupIcon"
+    },
+    {
+      "id": 7,
+      "question": "Are there any prerequisites to enrol in your courses?",
+      "answer": "Most of our courses require a minimum of a high school certificate or equivalent. Some programs may have additional requirements, such as language proficiency, police checks, or immunisation records for work placements. We provide clear guidance during the enrolment process to ensure you meet all requirements and are prepared for the course. This ensures that all students have the necessary foundation to succeed in both theory and practical components.",
+      "icon": "ChecklistIcon"
+    },
+    {
+      "id": 9,
+      "question": "Do you offer career support after graduation?",
+      "answer": "Yes. We provide ongoing career support for graduates, including job placement assistance, resume and interview coaching, and networking opportunities with employers in healthcare and community services. Our goal is to ensure that students transition successfully from study to employment, equipped with confidence, professional skills, and access to a network of industry contacts. Career workshops and alumni events are also held to support lifelong learning and career advancement.",
+      "icon": "UserCircleIcon"
+    },
+    {
+      "id": 10,
+      "question": "How are courses assessed?",
+      "answer": "Assessment is competency-based and includes a combination of written assignments, online quizzes, practical demonstrations, and work placement evaluations. This approach ensures that students not only understand theoretical concepts but can also apply them in practical, real-world scenarios. Feedback is provided regularly to support continuous improvement, and students must meet all competency requirements to successfully complete the course and receive their nationally recognised qualification.",
+      "icon": "AcademicCapIcon"
+    }
+  ],
+  "career": [
+    {
+      "category": "new-starters",
+      "courses": [
+        {
+          "image": "/images/courses/33021.png",
+          "title": "CHC33021: Certificate III in Individual Support",
+          "tag": {
+            "primary": "Aged Care",
+            "secondary": "Disability"
+          },
+          "description": "This qualification equips learners with the skills and knowledge to provide person-centred care and support to individuals in aged care, disability, or community settings. It focuses on promoting independence, dignity, and well-being in daily living activities.",
+          "points": [
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Provide person-centred care"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Support daily living activities"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Promote independence and well-being"
+            }
+          ],
+          "button": "Learn More"
+        },
+        {
+          "image": "/images/courses/43015.png",
+          "title": "CHC43015: Certificate IV in Ageing Support",
+          "tag": {
+            "primary": "Advanced Care",
+            "secondary": "Leadership"
+          },
+          "description": "This course develops advanced competencies for supporting older individuals in residential, community, or home care environments. Learners gain expertise in service coordination, individualized support, and person-centred care for ageing populations.",
+          "points": [
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Plan and coordinate care services"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Lead and supervise aged care teams"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Deliver person-centred support"
+            }
+          ],
+          "button": "Learn More"
+        },
+        {
+          "image": "/images/courses/43121.png",
+          "title": "CHC43121: Certificate IV in Disability Support",
+          "tag": {
+            "primary": "Disability",
+            "secondary": "Inclusion"
+          },
+          "description": "This qualification prepares students to empower people with disabilities by promoting independence, inclusion, and well-being. It covers behaviour support, communication strategies, and advanced person-centred care techniques.",
+          "points": [
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Support inclusion and independence"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Implement behaviour support strategies"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Apply advanced communication techniques"
+            }
+          ],
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "category": "experienced-learners",
+      "courses": [
+        {
+          "image": "/images/courses/cpr.png",
+          "title": "HLTAID009: Provide Cardiopulmonary Resuscitation (CPR)",
+          "tag": {
+            "primary": "CPR",
+            "secondary": "Emergency"
+          },
+          "description": "This course provides essential skills and knowledge to perform cardiopulmonary resuscitation (CPR) in line with current Australian Resuscitation Council (ARC) guidelines. It focuses on responding to breathing and cardiac emergencies confidently and effectively.",
+          "points": [
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Perform CPR correctly"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Respond to cardiac and breathing emergencies"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Follow ARC safety guidelines"
+            }
+          ],
+          "button": "Learn More"
+        },
+        {
+          "image": "/images/courses/first-aid.png",
+          "title": "HLTAID011: Provide First Aid",
+          "tag": {
+            "primary": "First Aid",
+            "secondary": "Workplace Safety"
+          },
+          "description": "This qualification delivers comprehensive training in first aid response, life support, and casualty management until professional medical help arrives. It includes CPR, injury management, and response to common emergencies in workplaces and communities.",
+          "points": [
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Assess and manage injuries"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Provide life support and first aid"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Handle emergencies confidently"
+            }
+          ],
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "category": "career-growth",
+      "courses": [
+        {
+          "image": "/images/courses/43015.png",
+          "title": "CHC43015: Certificate IV in Ageing Support",
+          "tag": {
+            "primary": "Advanced Care",
+            "secondary": "Leadership"
+          },
+          "description": "This course develops advanced competencies for supporting older individuals in residential, community, or home care environments. Learners gain expertise in service coordination, individualized support, and person-centred care for ageing populations.",
+          "points": [
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Enhance leadership skills in care settings"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Deliver advanced person-centred support"
+            },
+            {
+              "icon": "CheckCircleIcon",
+              "text": "Coordinate complex care services"
+            }
+          ],
+          "button": "Learn More"
+        }
+      ]
+    }
+  ],
+  "confidence": [
+    {
+      "category": "affordable-study",
+      "title": "Affordable Study",
+      "leftType": "card",
+      "paragraph": "Access high-quality nursing education without financial stress. Our programs provide exceptional value for students from all backgrounds. Take advantage of cost-effective tuition structures, flexible payment plans, and scholarship opportunities to invest in your future without compromise.",
+      "points": [
+        { "icon": "CurrencyDollarIcon", "text": "Affordable tuition options" },
+        { "icon": "ReceiptPercentIcon", "text": "Payment plans available" },
+        { "icon": "GiftIcon", "text": "Scholarships and support programs" }
+      ],
+      "ctaText": "Explore Affordable Options"
+    },
+    {
+      "category": "flexible-learning",
+      "title": "Flexible Learning",
+      "leftType": "image",
+      "paragraph": "Study on your schedule with programs designed to adapt seamlessly to your lifestyle. Whether you are a working professional, parent, or balancing other commitments, our flexible delivery modes—including online, on-campus, and blended learning—ensure you can progress at your own pace without compromising quality.",
+      "images": [
+        { "type": "rectangle", "src": "/images/book.png" },
+        { "type": "circle", "src": "/images/testimonial.jpg" },
+        { "type": "circle", "src": "/images/testimonial2.jpg" },
+        { "type": "circle", "src": "/images/testimonial3.jpg" }
+      ],
+      "points": [
+        { "icon": "ClockIcon", "text": "Online and on-campus options" },
+        { "icon": "ArrowPathIcon", "text": "Self-paced modules available" },
+        { "icon": "DeviceTabletIcon", "text": "Blended learning options" }
+      ],
+      "ctaText": "See Flexible Programs"
+    },
+    {
+      "category": "workplace-commitment",
+      "title": "Workplace Commitment",
+      "leftType": "image",
+      "paragraph": "Gain practical, real-world experience through structured programs that prepare you for a successful career. Our partnerships with leading healthcare organizations and industry professionals ensure you graduate with both theoretical knowledge and hands-on skills to confidently enter the workforce.",
+      "images": [
+        { "type": "rectangle", "src": "/images/cd.png" },
+        { "type": "circle", "src": "/images/testimonial.jpg" },
+        { "type": "circle", "src": "/images/testimonial2.jpg" },
+        { "type": "circle", "src": "/images/testimonial3.jpg" }
+      ],
+      "points": [
+        { "icon": "BriefcaseIcon", "text": "Hands-on workplace experience" },
+        {
+          "icon": "UserGroupIcon",
+          "text": "Industry partnerships for internships"
+        },
+        { "icon": "ShieldCheckIcon", "text": "Career-ready skill development" }
+      ],
+      "ctaText": "Discover Workplace Programs"
+    },
+    {
+      "category": "nationally-recognized",
+      "title": "Nationally Recognized",
+      "leftType": "image",
+      "paragraph": "Our programs adhere to national standards, ensuring your qualifications are respected and valued across Australia. Graduates benefit from industry-aligned curricula, accredited certifications, and recognition that opens doors to professional opportunities nationwide.",
+      "images": [
+        { "type": "rectangle", "src": "/images/def.png" },
+        { "type": "circle", "src": "/images/testimonial.jpg" },
+        { "type": "circle", "src": "/images/testimonial2.jpg" },
+        { "type": "circle", "src": "/images/testimonial3.jpg" }
+      ],
+      "points": [
+        {
+          "icon": "AcademicCapIcon",
+          "text": "Accredited courses and certifications"
+        },
+        { "icon": "GlobeAltIcon", "text": "Industry-standard curriculum" },
+        { "icon": "ShieldCheckIcon", "text": "Recognition across Australia" }
+      ],
+      "ctaText": "Check National Recognition"
+    }
+  ]
+}
